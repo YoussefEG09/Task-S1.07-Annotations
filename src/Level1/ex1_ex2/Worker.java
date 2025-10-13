@@ -1,4 +1,4 @@
-package Level1.ex1;
+package Level1.ex1_ex2;
 
 public abstract class Worker {
     private String name;
